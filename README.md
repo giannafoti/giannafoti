@@ -6,6 +6,6 @@
 **Hardware Skills:** Arduino, MSP430  
 
 ### Current Courses
-- Software Design & Engineering  
-- Embedded Systems  
-- Cybersecurity Management  
+- Operating Systems 
+- Computer Networks  
+- Secure Software Dev  
