@@ -5,9 +5,11 @@
 **Operating Systems:** Linux, MacOS, Windows  
 **Hardware Skills:** Arduino, MSP430 
 
-**In Progress:** Security+ (expected completion May 2025)
+**In Progress:** Security+ (expected completion May 2026)
 
 ### Current Courses
-- Operating Systems 
-- Computer Networks  
-- Secure Software Dev  
+- Intro to Cybersecurity Engineering 
+- Reverse Software Engineering
+- Network Security
+- Digital Logic Design Lab
+- Cybersecurity/Computer Engineering Capstone  
